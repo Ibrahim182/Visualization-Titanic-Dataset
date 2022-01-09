@@ -4,6 +4,7 @@
 <a href="https://www.kaggle.com/c/titanic/data/" target="_blank">We could find data description in this link</a>
 <b>
 <h3>Snapshot of the content in this jupyter file</h3>
+  
 <br>
 <img scr="snapshot/head.jpg">
 <br>
