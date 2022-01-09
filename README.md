@@ -6,9 +6,9 @@
 <h3>Snapshot of the content in this jupyter file</h3>
   
 <br>
-<img scr="snapshot/head.jpg">
+<img src="snapshot/head.jpg">
 <br>
-<img scr="snapshot/1.jpg">
+<img src="snapshot/1.jpg">
 <br>
 <img src="snapshot/2.jpg">
 <br>
